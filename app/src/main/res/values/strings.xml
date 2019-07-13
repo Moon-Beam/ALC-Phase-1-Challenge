@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="timilehin_odeyinka">Timilehin Odeyinka</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="track"> Track:</string>
+    <string name="country"> Country:</string>
+    <string name="email"> Email:</string>
+    <string name="phone_number"> Phone Number:</string>
+    <string name="slack_username"> Slack Username:</string>
+    <string name="android"> Android</string>
+    <string name="nigeria"> Nigeria</string>
+    <string name="odeyinkatimilehin_gmail_com"> odeyinkatimilehin@gmail.com</string>
+    <string name="_2348161345343">2348161345343</string>
+    <string name="_timilehin_odeyinka"> \@Timilehin Odeyinka</string>
+</resources>
